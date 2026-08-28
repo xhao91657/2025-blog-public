@@ -62,7 +62,7 @@
 		{
 			"id": "button-1787897613772",
 			"type": "link",
-			"value": "php-ssl-acme.wasmer.app",
+			"value": "https://php-ssl-acme.wasmer.app",
 			"label": "phpssl",
 			"order": 3
 		},
