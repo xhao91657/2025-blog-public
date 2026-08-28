@@ -45,16 +45,16 @@
 		"width": 315,
 		"height": 48,
 		"order": 6,
-		"offsetX": -174,
-		"offsetY": 19,
+		"offsetX": 272,
+		"offsetY": 272,
 		"enabled": true
 	},
 	"shareCard": {
 		"width": 200,
 		"height": 180,
 		"order": 7,
-		"offsetX": -105,
-		"offsetY": 74,
+		"offsetX": -112,
+		"offsetY": 33,
 		"enabled": true
 	},
 	"articleCard": {
