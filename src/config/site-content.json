@@ -72,6 +72,13 @@
 			"value": "https://moontv.xhao91656.dpdns.org/",
 			"label": "自建moontv",
 			"order": 4
+		},
+		{
+			"id": "button-1787914050391",
+			"type": "link",
+			"value": "https://chpan.wasmer.app",
+			"label": "纯种自开发网盘",
+			"order": 5
 		}
 	],
 	"clockShowSeconds": true,
