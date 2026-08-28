@@ -65,6 +65,13 @@
 			"value": "php-ssl-acme.wasmer.app",
 			"label": "phpssl",
 			"order": 3
+		},
+		{
+			"id": "button-1787897742836",
+			"type": "link",
+			"value": "https://moontv.xhao91656.dpdns.org/",
+			"label": "自建moontv",
+			"order": 4
 		}
 	],
 	"clockShowSeconds": true,
